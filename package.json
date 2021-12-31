@@ -9,8 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "qrcode-terminal": "^0.12.0",
     "wechaty": "^1.10.4",
-    "wechaty-puppet-wechat": "^1.10.5"
+    "wechaty-plugin-contrib": "^1.0.18",
+    "wechaty-puppet-puppeteer": "^0.24.6",
+    "wechaty-puppet-wechat": "^1.10.5",
+    "wechaty-puppet-wechat4u": "^1.10.2"
   },
   "type": "module"
 }
